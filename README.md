@@ -1,1 +1,0 @@
-# QuincyGrant.github.io
