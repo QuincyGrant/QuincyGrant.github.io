@@ -14,4 +14,4 @@ This is my first website, but as I learn more, she may eventually turn into some
 
 
 
-But for now, this'll do. Welcome!
+Though, for now, this'll do. Welcome!
