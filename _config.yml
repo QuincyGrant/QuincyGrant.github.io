@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Quincy Grant"
   avatar           : "/images/me-1.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Personal Portfolio"
+  bio              : "Aspiring data junkie "
   location         : "Tallahassee, FL"
-  email            : 
+  email            :
   links:
     - label: "qbriangrant@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
