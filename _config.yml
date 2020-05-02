@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "Quincy Grant"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Quincy Grant"
-description              : "Personal Portfolio"
+description              : "Portfolio of an aspiring data junkie"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,9 +97,9 @@ author:
   avatar           : "/images/me-1.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal Portfolio"
   location         : "Tallahassee, FL"
-  email            : "qbriangrant@gmail.com"
+  email            : 
   links:
-    - label: "Email"
+    - label: "qbriangrant@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "qbriangrant@gmail.com"
     - label: "Website"
