@@ -1,7 +1,6 @@
 ---
 title: "Logistic Regression Part 1: Scraping the data"
 date: 2020-05-02
-tags: [logistic regression, web scraping, python, BeautifulSoup]
 ---
 The ongoing COVID-19 pandemic has, at the very least, suspended the 2020 sports season worldwide. On the bright side, that gives us time to make predictions of just how any season might turn out.
 
@@ -52,7 +51,7 @@ It is essentially the same for the pitching data table, however there is an issu
 ## Code
 The rest of the code consists of extracting the stats I needed, creating a dataframe, and then exporting it to a csv file. Here it is in its entirety:
 
-```Python
+```python
 from bs4 import BeautifulSoup,Comment
 import pandas as pd
 import time
