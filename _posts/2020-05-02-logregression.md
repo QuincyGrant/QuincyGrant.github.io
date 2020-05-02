@@ -1,6 +1,7 @@
 ---
 title: "Logistic Regression Part 1: Scraping the data"
 date: 2020-05-02
+tags: [Web Scraping]
 ---
 The ongoing COVID-19 pandemic has, at the very least, suspended the 2020 sports season worldwide. On the bright side, that gives us time to make predictions of just how any season might turn out.
 
