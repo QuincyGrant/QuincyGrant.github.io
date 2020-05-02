@@ -8,7 +8,7 @@ In this project, using Python, I first create a web scraper to gather MLB data f
 
 Keep in mind that I am still somewhat of an amateur at writing code, especially in Python so this all a learning process for me, that includes the analysis.
 
-#The Data
+## Data Description
 The data will be scraped from [Baseball Reference]("https://www.baseball-reference.com"). It contains data from as far back as the 1870s, however, because the structure of the playoffs, and baseball as a whole, has changed often and drastically since, the data I use goes back only to 2012, the first year that the current playoff structure was implemented. The changes deal primarily with the amount of teams allowed to make it to the playoffs, and in 2012 the MLB expanded it to 10 teams.    
 
 Therefore, we will be gathering batting, and pitching data from the 2012 - 2019 seasons.
