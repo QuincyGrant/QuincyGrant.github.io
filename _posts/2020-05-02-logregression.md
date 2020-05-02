@@ -43,7 +43,7 @@ The HTML code for the batting data table:
 ```
 It is essentially the same for the pitching data table, however there is an issue where the code for it is commented in for some reason, so I had to add a few lines of code to get what I needed out of it (Thanks to StackOverflow for helping me figure this out).
 
-```Python
+```python
     comments = soup.find_all(text=lambda text: isinstance(text, Comment))
     pitching_html = comments[19]
     pitching_table = BeautifulSoup(pitching_html, 'lxml')
