@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Quincy Grant"
   avatar           : "/images/me-1.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : *"Aspiring data scientist"*
+  bio              : "*Aspiring data scientist*"
   location         : "Tallahassee, FL"
   email            :
   links:
