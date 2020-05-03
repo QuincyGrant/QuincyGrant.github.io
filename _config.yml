@@ -20,7 +20,7 @@ title                    : "Quincy Grant"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Quincy Grant"
-description              : "Portfolio of an aspiring data junkie"
+description              : "My portfolio of all things data related"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Quincy Grant"
   avatar           : "/images/me-1.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring data junkie, astronomer, and season ticket holder."
+  bio              : "Aspiring data scientist and astronomer. For now."
   location         : "Tallahassee, FL"
   email            :
   links:
